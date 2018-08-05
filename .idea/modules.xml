@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VapeCraft.iml" filepath="$PROJECT_DIR$/VapeCraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VapeCraft_api.iml" filepath="$PROJECT_DIR$/.idea/modules/VapeCraft_api.iml" group="VapeCraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VapeCraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VapeCraft_main.iml" group="VapeCraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VapeCraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VapeCraft_test.iml" group="VapeCraft" />
+    </modules>
+  </component>
+</project>

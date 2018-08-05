@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vapecraft",
+  "name": "VapeCraft",
+  "description": "A Minecraft mod that lets you vape!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hubert Cucumberdale","chickenkid9"],
+  "credits": "The Forge and FML guys, Nicole and Ella. Probably also The Frog",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
